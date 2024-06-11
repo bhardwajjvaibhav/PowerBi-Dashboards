@@ -1,1 +1,1 @@
-
+This repository features a collection of Power BI dashboards showcasing various data visualizations and analytics. Each project provides interactive and insightful visualizations, covering areas such as sales performance, customer insights, financial metrics, marketing analytics, and human resources. Ideal for professionals looking to enhance their business intelligence capabilities with dynamic and informative dashboards.
